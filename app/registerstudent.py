@@ -2,7 +2,7 @@ listdata=[]
 
 def register_student():
     studentdict={}
-    studentdict["id"]=int(input("please enter your id: "))
+    studentdict["id"]=int(input("please enter your id : "))
     studentdict["name"]=input("please enter your name: ")
     studentdict["address"]=input("please enter your address: ")
 

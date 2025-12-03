@@ -4,7 +4,7 @@ import deletestudent
 
 
 while True:
-        print("Student Menu ")
+        print(" Student Menu ")
         print("1. Register Student")
         print("2. Search Student")
         print("3. Delete Student")

@@ -1,7 +1,7 @@
 import registerstudent
 
 def search_student():
-    delete = int(input("Enter student id to search: "))
+    delete = int(input("Enter student id to search : "))
 
     for item in registerstudent.listdata:
         if item["id"] == delete:
